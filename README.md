@@ -4,19 +4,20 @@
 This VPN Project is a simple way to provide online privacy and security The VPN client will encrypt internet traffic and also masks your IP, doing such will ensure a secure and private browsing experiance wherever you may be.
 
 
-## Features
-- **Encryption:** This Protects your data using SSL/TLS encryption.
-- **IP Masking:** This Hides your IP address so you can maintain privacy.
-- **Cross-Platform:** Works on macOS,Linux and Windows.
-- **Easy Setup:** Straightforward configuration and connection process.
-
-## Installation
-- Virtual Machine (Microsoft Azure)
-- Windows 10
+## Environments and Technologies Used
+- Microsoft Azure 
+- Microsoft Remote Desktop
 - Proton VPN
 
+## Operating System Used 
+- Windows 10
 
+## List of Prerequisites 
+- Azure Virtual Machines
+- Proton VPN
 
+## Installation Steps 
+Here i will show step by step on how to download install and use proton VPN while using a Virtual Machine or your own Computer 
 
 
 ## Step 1
